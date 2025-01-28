@@ -1,1 +1,1 @@
-Projeto feito em python para facilitar o utilização de marcas d' agua em fotos publicitarias para o instagram.
+Este projeto foi desenvolvido em Python com o objetivo de simplificar a aplicação de marcas d'água em fotos publicitárias, especialmente voltadas para o Instagram. A ferramenta permite adicionar uma marca d'água personalizada a imagens de forma rápida e eficiente, garantindo proteção aos direitos autorais e identidade visual de marcas.
